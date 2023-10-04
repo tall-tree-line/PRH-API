@@ -1,0 +1,4 @@
+app.log
+venv/
+prh/__pycache__
+prh/dev/
