@@ -1,0 +1,6 @@
+.env
+venv/
+prh/__pycache__
+prh/dev
+app.log
+tests/
